@@ -19,3 +19,43 @@ header{
     position: absolute;
     bottom: 10px;
     left: 0;
+}
+.autorearticolo a{
+    text-decoration: none;
+    color:deepskyblue;
+    font-size: 20px;
+}
+.autorearticolo{
+    color: grey;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+.didascalia{
+    font-style: italic;
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+.lista{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#txt_evidenziato{
+    background-color: yellow;
+}
+table{
+    background-color:royalblue;
+    text-align: left;
+    margin-bottom: 20px;
+}
+thead{
+    color: white;
+}
+tbody td{
+    background-color: aqua;
+}
+#rigabianca>td{
+    background: white;
+}
+td{
+   height: 60px;
+}
