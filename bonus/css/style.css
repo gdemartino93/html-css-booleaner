@@ -14,11 +14,12 @@ header{
     position: relative;   
     margin-bottom: 20px;
 }
+
 .logotesto img{
     width: 200px;
     position: absolute;
     bottom: 10px;
-    left: 0;
+    left: 300px;
 }
 .autorearticolo a{
     text-decoration: none;
@@ -57,9 +58,8 @@ tbody td{
     background: white;
 }
 td{
-   height: 60px;
+    height: 90px;
 }
-
 footer{
     color: grey;
 }
@@ -74,6 +74,7 @@ footer{
     font-weight: bold;
     margin-bottom: 15px;
     margin-top: 20px;
+
 }
 
 .secondoitem{
@@ -85,4 +86,24 @@ footer{
     color: white;
     text-align: center;
     font-weight: bold;
+}
+.contenitore{
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+}
+.primaimmagine{
+    background-image: url(../img/tim-1.jpg);
+    width: 440px;
+    height: 360px;
+    display: inline-block;
+    background-repeat: no-repeat;
+}
+.secondaimmagine{
+   
+    background-image: url(../img/tim-2.jpg);
+    width: 440px;
+    height: 360px;
+    display: inline-block;
+    background-repeat: no-repeat;
 }
