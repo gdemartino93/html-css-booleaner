@@ -18,8 +18,7 @@ header{
 .logotesto img{
     width: 200px;
     position: absolute;
-    bottom: 10px;
-    left: 300px;
+    bottom: 0;
 }
 .autorearticolo a{
     text-decoration: none;
